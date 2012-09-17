@@ -1,7 +1,4 @@
-GitDeploy
-=========
-
-Git as deploy tool http://wanhaoran.tumblr.com/post/30795177352/git-as-deployment-toolgit as deployment tool
+git as deployment tool
 
 What was the problem?
 
